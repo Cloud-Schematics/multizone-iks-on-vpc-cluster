@@ -1,4 +1,4 @@
-# Cluster Workspace
+# Kubernetes cluster on VPC
 
 This module creates an IKS Cluster on an existing VPC network and enables Private ALBs (Application Load Balancers). Optionally, it can also enable public ALBs.
 
